@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Our Kanchana",
+    "subtitle": "Committed to building a beautiful, aware, safe and prosperous Kanchana",
+    "ctaAbout": "About Us",
+    "ctaMap": "Community Map"
+  },
+  "about": {
+    "heading": "About Us",
+    "body1": "\"Our Kanchana\" is a non-political, voluntary, public-welfare social platform formed by students, youth, professionals, social workers and conscious citizens of Kanchana.",
+    "body2": "We work to raise awareness among the people of Kanchana, keep young people away from drugs and gambling by engaging them in positive activities, and identify and take initiative to solve local problems.",
+    "body3": "We believe sustainable development of society is not possible through infrastructure alone; it requires conscious citizens, a responsible young generation, social unity, volunteerism and the active participation of the people."
+  },
+  "vision": {
+    "heading": "Our Vision",
+    "body": "To build a beautiful, safe, drug-free, humane, conscious and prosperous Kanchana through the participation of its people."
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "body": "To take effective initiatives for the welfare of the people of Kanchana through social unity, volunteerism, youth leadership and public engagement."
+  },
+  "focusAreas": {
+    "heading": "Our Key Focus Areas",
+    "subheading": "The areas where we work tirelessly",
+    "items": [
+      { "title": "Anti-Drug Initiative", "subtitle": "মাদকবিরোধী উদ্যোগ" },
+      { "title": "Health & Humanitarian Service", "subtitle": "স্বাস্থ্য ও মানবিক সেবা" },
+      { "title": "Education & Student Development", "subtitle": "শিক্ষা ও শিক্ষার্থীর উন্নয়ন" },
+      { "title": "Youth & Sports Development", "subtitle": "তরুণ ও ক্রীড়া উন্নয়ন" },
+      { "title": "Local Development & Civic Participation", "subtitle": "স্থানীয় উন্নয়ন ও নাগরিক অংশগ্রহণ" }
+    ]
+  },
+  "model": {
+    "heading": "How We Work",
+    "subheading": "How we take a problem all the way to a solution",
+    "steps": [
+      { "key": "IDENTIFY", "title": "Identify", "desc": "Identify community problems" },
+      { "key": "DOCUMENT", "title": "Document", "desc": "Collect and organize information" },
+      { "key": "CONNECT", "title": "Connect", "desc": "Connect citizens, organizations and stakeholders" },
+      { "key": "ACT", "title": "Act", "desc": "Take practical action" },
+      { "key": "MONITOR", "title": "Monitor", "desc": "Track progress and outcomes" }
+    ]
+  },
+  "mapPreview": {
+    "heading": "Kanchana Community Map",
+    "body": "Building a data-driven community mapping database covering the social, civic and development issues and potential of Kanchana Union's 9 wards is one of our key initiatives.",
+    "cta": "View the Map"
+  },
+  "issuesSection": {
+    "heading": "Community Issues",
+    "cta": "View all issues"
+  },
+  "projectsSection": {
+    "heading": "Development Projects",
+    "cta": "View all projects"
+  },
+  "activitiesSection": {
+    "heading": "Recent Activities",
+    "cta": "View all activities"
+  },
+  "stats": {
+    "heading": "Community Statistics"
+  },
+  "volunteerCta": {
+    "heading": "Join Us",
+    "body": "Put your time and skills to work for Kanchana's development.",
+    "cta": "Become a Volunteer"
+  },
+  "partnershipCta": {
+    "heading": "We want to work together for the development of Kanchana.",
+    "cta": "Get in touch for partnership"
+  }
+}

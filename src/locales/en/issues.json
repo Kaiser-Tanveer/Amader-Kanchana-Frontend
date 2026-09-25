@@ -1,0 +1,59 @@
+{
+  "reportPage": {
+    "title": "Is there a problem in your area?",
+    "subtitle": "Let us know, and we'll work together toward a solution.",
+    "form": {
+      "title": "Problem title",
+      "category": "Category",
+      "ward": "Ward",
+      "area": "Area",
+      "description": "Detailed description",
+      "photo": "Add a photo",
+      "location": "Select location",
+      "reporterName": "Your name (optional)",
+      "reporterPhone": "Mobile number (optional)",
+      "reporterEmail": "Email (optional)",
+      "privacyNote": "Your personal information (name, phone, email) will never be made public.",
+      "submit": "Submit problem"
+    },
+    "successTitle": "Your report has been submitted successfully",
+    "referenceLabel": "Your report reference number"
+  },
+  "categories": {
+    "roads": "Roads & Communication",
+    "waterlogging": "Waterlogging",
+    "water": "Water",
+    "streetlight": "Street Light",
+    "waste": "Waste Management",
+    "education": "Education",
+    "health": "Health",
+    "playground": "Playground",
+    "environment": "Environment",
+    "social": "Social Issue",
+    "other": "Other"
+  },
+  "status": {
+    "SUBMITTED": "Submitted",
+    "UNDER_REVIEW": "Under Review",
+    "VERIFIED": "Verified",
+    "FORWARDED": "Forwarded",
+    "IN_PROGRESS": "In Progress",
+    "RESOLVED": "Resolved",
+    "CLOSED": "Closed"
+  },
+  "publicPage": {
+    "submittedOn": "Submitted on",
+    "currentStatus": "Current status",
+    "timeline": "Timeline"
+  },
+  "dashboard": {
+    "total": "Total Issues",
+    "verified": "Verified",
+    "inProgress": "In Progress",
+    "resolved": "Resolved",
+    "byCategory": "By Category",
+    "byWard": "By Ward",
+    "byStatus": "By Status",
+    "monthlyTrend": "Monthly Trend"
+  }
+}

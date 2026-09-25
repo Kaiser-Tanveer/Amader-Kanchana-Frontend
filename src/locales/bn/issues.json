@@ -1,0 +1,59 @@
+{
+  "reportPage": {
+    "title": "আপনার এলাকায় কোনো সমস্যা আছে?",
+    "subtitle": "আমাদের জানান, আমরা একসাথে এর সমাধানের উদ্যোগ নেব।",
+    "form": {
+      "title": "সমস্যার শিরোনাম",
+      "category": "ক্যাটাগরি",
+      "ward": "ওয়ার্ড",
+      "area": "এলাকা",
+      "description": "বিস্তারিত বিবরণ",
+      "photo": "ছবি যুক্ত করুন",
+      "location": "অবস্থান নির্বাচন করুন",
+      "reporterName": "আপনার নাম (ঐচ্ছিক)",
+      "reporterPhone": "মোবাইল নম্বর (ঐচ্ছিক)",
+      "reporterEmail": "ইমেইল (ঐচ্ছিক)",
+      "privacyNote": "আপনার ব্যক্তিগত তথ্য (নাম, ফোন, ইমেইল) কখনো জনসমক্ষে প্রকাশ করা হবে না।",
+      "submit": "সমস্যা জমা দিন"
+    },
+    "successTitle": "আপনার অভিযোগ সফলভাবে জমা হয়েছে",
+    "referenceLabel": "আপনার অভিযোগ/সমস্যার রেফারেন্স নম্বর"
+  },
+  "categories": {
+    "roads": "রাস্তা ও যোগাযোগ",
+    "waterlogging": "জলাবদ্ধতা",
+    "water": "পানি",
+    "streetlight": "স্ট্রিট লাইট",
+    "waste": "বর্জ্য ব্যবস্থাপনা",
+    "education": "শিক্ষা",
+    "health": "স্বাস্থ্য",
+    "playground": "খেলার মাঠ",
+    "environment": "পরিবেশ",
+    "social": "সামাজিক সমস্যা",
+    "other": "অন্যান্য"
+  },
+  "status": {
+    "SUBMITTED": "জমা হয়েছে",
+    "UNDER_REVIEW": "পর্যালোচনাধীন",
+    "VERIFIED": "যাচাইকৃত",
+    "FORWARDED": "প্রেরিত",
+    "IN_PROGRESS": "চলমান",
+    "RESOLVED": "সমাধান হয়েছে",
+    "CLOSED": "বন্ধ"
+  },
+  "publicPage": {
+    "submittedOn": "জমার তারিখ",
+    "currentStatus": "বর্তমান অবস্থা",
+    "timeline": "সময়রেখা"
+  },
+  "dashboard": {
+    "total": "মোট সমস্যা",
+    "verified": "যাচাইকৃত",
+    "inProgress": "চলমান",
+    "resolved": "সমাধান হয়েছে",
+    "byCategory": "ক্যাটাগরি অনুযায়ী",
+    "byWard": "ওয়ার্ড অনুযায়ী",
+    "byStatus": "অবস্থা অনুযায়ী",
+    "monthlyTrend": "মাসিক প্রবণতা"
+  }
+}

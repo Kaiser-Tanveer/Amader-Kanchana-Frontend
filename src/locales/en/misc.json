@@ -1,0 +1,92 @@
+{
+  "volunteer": {
+    "heading": "Join Us",
+    "subheading": "Put your time, skills and energy to work for Kanchana's development.",
+    "form": {
+      "name": "Name",
+      "mobile": "Mobile number",
+      "email": "Email",
+      "ward": "Ward",
+      "profession": "Profession",
+      "interests": "Areas of interest",
+      "skills": "Skills",
+      "availability": "Availability",
+      "message": "Short message",
+      "submit": "Apply"
+    },
+    "interests": {
+      "health": "Health",
+      "education": "Education",
+      "youth": "Youth",
+      "sports": "Sports",
+      "environment": "Environment",
+      "social": "Social Service",
+      "mapping": "Community Mapping",
+      "digital": "Digital/IT",
+      "media": "Media/Documentation"
+    },
+    "successMessage": "Thank you! Your application has been submitted successfully."
+  },
+  "contact": {
+    "heading": "Contact",
+    "office": "Office",
+    "phone": "Mobile",
+    "email": "Email",
+    "facebook": "Facebook",
+    "address": "Address",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    }
+  },
+  "partnership": {
+    "heading": "We want to work together for the development of Kanchana.",
+    "categoriesHeading": "Potential Partners",
+    "categories": [
+      "Local representatives",
+      "Government/public institutions",
+      "Social organizations",
+      "Educational institutions",
+      "Healthcare professionals",
+      "Businesses",
+      "Professionals",
+      "Youth organizations"
+    ],
+    "form": {
+      "orgName": "Organization/individual name",
+      "category": "Category",
+      "contact": "Contact information",
+      "message": "Proposal",
+      "submit": "Send"
+    }
+  },
+  "wards": {
+    "heading": "The 9 Wards of Kanchana",
+    "wardLabel": "Ward {{number}}",
+    "overview": "Overview",
+    "needsHeading": "Community Needs"
+  },
+  "institutions": {
+    "categories": {
+      "school": "School",
+      "college": "College",
+      "madrasa": "Madrasa",
+      "mosque": "Mosque",
+      "temple": "Temple",
+      "health": "Health Facility",
+      "market": "Market",
+      "playground": "Playground",
+      "community": "Community Center",
+      "other": "Other"
+    }
+  },
+  "gallery": {
+    "heading": "Gallery"
+  },
+  "news": {
+    "heading": "Activities & News"
+  },
+  "privacyNotice": "Personal information submitted through the problem reporting and volunteer forms is fully protected."
+}

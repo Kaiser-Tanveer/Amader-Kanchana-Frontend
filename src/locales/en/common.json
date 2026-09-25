@@ -1,0 +1,57 @@
+{
+  "org": {
+    "name": "Our Kanchana",
+    "nameEn": "Our Kanchana",
+    "tagline": "Our village, our responsibility.",
+    "location": "Kanchana, Satkania, Chattogram"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "visionMission": "Vision & Mission",
+    "activities": "Activities",
+    "projects": "Projects",
+    "community": "Community",
+    "communityMap": "Community Map",
+    "wards": "Wards",
+    "institutions": "Institutions",
+    "issues": "Issues",
+    "reportProblem": "Report a Problem",
+    "volunteer": "Volunteer",
+    "gallery": "Gallery",
+    "news": "News",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "actions": {
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "search": "Search",
+    "filter": "Filter",
+    "close": "Close",
+    "back": "Back",
+    "loadMore": "Load more",
+    "learnMore": "Learn more"
+  },
+  "states": {
+    "loading": "Loading...",
+    "empty": "No data has been added here yet.",
+    "error": "Sorry, we couldn't load this. Please try again.",
+    "notFound": "Page not found.",
+    "demoData": "Demo Data"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "followUs": "Follow us",
+    "copyright": "© {{year}} Our Kanchana. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "language": {
+    "bn": "বাংলা",
+    "en": "English"
+  }
+}

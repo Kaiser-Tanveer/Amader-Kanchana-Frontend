@@ -1,0 +1,25 @@
+{
+  "title": "About Us",
+  "intro": "\"Our Kanchana\" is a non-political, voluntary, public-welfare social platform formed by students, youth, professionals, social workers and conscious citizens of Kanchana.",
+  "coreValuesHeading": "Core Values",
+  "coreValues": [
+    "Conscious citizenship",
+    "Responsible young generation",
+    "Social unity",
+    "Volunteerism",
+    "Active participation of the people"
+  ],
+  "approachHeading": "Our Approach",
+  "approachBody": "We work by raising awareness among the people of Kanchana, engaging young people in positive activities, and identifying and taking initiative to solve local problems.",
+  "futureDirectionHeading": "Future Direction",
+  "futureDirectionBody": "Building a data-driven community mapping database covering all 9 wards of Kanchana Union is one of our key future initiatives.",
+  "priorityProgramsHeading": "Our Priority Programs",
+  "priorityPrograms": [
+    "Anti-drug Program",
+    "Medical Camp",
+    "Education Support Program",
+    "Social Problems & Solutions",
+    "Social Awareness Program",
+    "Gift Distribution Program for the Distressed and Helpless"
+  ]
+}
