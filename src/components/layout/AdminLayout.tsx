@@ -42,8 +42,8 @@ const AdminLayout = () => {
     <div className="flex min-h-screen bg-slate-50">
       <aside className="hidden w-64 shrink-0 flex-col border-r border-slate-200 bg-white sm:flex">
         <div className="flex items-center gap-2 border-b border-slate-100 px-5 py-4">
-          <span className="flex h-8 w-8 items-center justify-center rounded-full bg-forest-600 text-xs font-bold text-white">
-            আক
+          <span className="flex h-8 w-8 items-center justify-center rounded-full bg-white text-xs font-bold text-white">
+            <img src="https://i.ibb.co.com/cXh1g7km/Whats-App-Image-2025-08-06-at-12-52-19-PM-removebg-preview.png" alt="" />
           </span>
           <span className="font-bold text-forest-900">Kanchana Admin</span>
         </div>

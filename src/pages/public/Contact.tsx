@@ -48,7 +48,7 @@ const Contact = () => {
               <Phone className="mt-0.5 shrink-0 text-slate-300" size={20} />
               <div>
                 <p className="text-sm text-slate-500">{t("contact.phone")}</p>
-                <p className="font-medium text-slate-400">— ({t("common:states.demoData")}) —</p>
+                <p className="font-medium text-slate-400">+8801851072581</p>
               </div>
             </li>
           </ul>

@@ -27,8 +27,8 @@ const Header = () => {
     <header className="sticky top-0 z-40 border-b border-slate-100 bg-white/95 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <Link to="/" className="flex items-center gap-2 font-bold text-forest-800">
-          <span className="flex h-9 w-9 items-center justify-center rounded-full bg-forest-600 text-sm text-white">
-            আক
+          <span className="flex h-9 w-9 items-center justify-center rounded-full bg-white text-sm text-white">
+            <img src="https://i.ibb.co.com/cXh1g7km/Whats-App-Image-2025-08-06-at-12-52-19-PM-removebg-preview.png" alt="" />
           </span>
           <span className="text-lg leading-tight">{t("org.name")}</span>
         </Link>

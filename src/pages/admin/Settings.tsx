@@ -9,7 +9,7 @@ const AdminSettings = () => {
     tagline: "আমাদের গ্রাম, আমাদেরই দায়িত্ব।",
     facebook: "facebook.com/amader.kanchana",
     email: "amaderkanchana@gmail.com",
-    phone: "",
+    phone: "+8801851072581",
     address: "কাঞ্চনা, সাতকানিয়া, চট্টগ্রাম",
     description: "",
   });
