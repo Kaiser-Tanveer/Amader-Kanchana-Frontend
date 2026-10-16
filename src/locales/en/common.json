@@ -1,7 +1,7 @@
 {
   "org": {
-    "name": "Our Kanchana",
-    "nameEn": "Our Kanchana",
+    "name": "Amader Kanchana",
+    "nameEn": "Amader Kanchana",
     "tagline": "Our village, our responsibility.",
     "location": "Kanchana, Satkania, Chattogram"
   },
@@ -46,7 +46,7 @@
   "footer": {
     "quickLinks": "Quick Links",
     "followUs": "Follow us",
-    "copyright": "© {{year}} Our Kanchana. All rights reserved.",
+    "copyright": "© {{year}} Amader Kanchana. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Use"
   },

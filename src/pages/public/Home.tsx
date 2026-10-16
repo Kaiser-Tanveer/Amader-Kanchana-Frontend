@@ -17,6 +17,7 @@ import HomeIssuesPreview from "@/components/issues/HomeIssuesPreview";
 import HomeProjectsPreview from "@/components/projects/HomeProjectsPreview";
 import HomeActivitiesPreview from "@/components/activities/HomeActivitiesPreview";
 import HomeStatsPreview from "@/components/dashboard/HomeStatsPreview";
+import EmergencyAppealBanner from "@/components/campaigns/EmergencyAppealBanner";
 
 const FOCUS_ICONS = [ShieldOff, HeartPulse, GraduationCap, Trophy, Landmark];
 
@@ -35,6 +36,7 @@ const Home = () => {
   return (
     <>
       {/* Hero */}
+      <EmergencyAppealBanner />
       <section className="relative overflow-hidden bg-forest-900">
         <div
           aria-hidden

@@ -13,7 +13,7 @@ const Terms = () => {
           সরল বিশ্বাসে ব্যবহার করবেন এবং কমিউনিটির স্বার্থ বিরোধী কোনো কার্যকলাপে জড়িত হবেন না।
         </p>
         <p>
-          By using the Our Kanchana platform, you agree to use the information provided here responsibly and in
+          By using the Amader Kanchana platform, you agree to use the information provided here responsibly and in
           good faith, and not to engage in any activity that works against the interest of the community.
         </p>
       </div>

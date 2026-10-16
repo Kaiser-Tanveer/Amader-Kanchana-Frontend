@@ -11,9 +11,14 @@ import {
   UserCog,
   Settings,
   LogOut,
+  HandHeart, 
+  Megaphone, 
+  IdCard
 } from "lucide-react";
 import { useAppDispatch, useAppSelector } from "@/hooks/useAppStore";
 import { logout } from "@/store/slices/authSlice";
+
+       
 
 const NAV = [
   { to: "/admin/dashboard", label: "Dashboard", icon: LayoutDashboard },
@@ -26,6 +31,9 @@ const NAV = [
   { to: "/admin/volunteers", label: "Volunteers", icon: Users },
   { to: "/admin/users", label: "Users", icon: UserCog },
   { to: "/admin/settings", label: "Settings", icon: Settings },
+  { to: "/admin/donations", label: "Donations", icon: HandHeart },
+  { to: "/admin/campaigns", label: "Campaigns", icon: Megaphone },
+  { to: "/admin/members", label: "Members", icon: IdCard },
 ];
 
 const AdminLayout = () => {

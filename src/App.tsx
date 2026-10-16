@@ -24,6 +24,9 @@ import Contact from "@/pages/public/Contact";
 import Privacy from "@/pages/public/Privacy";
 import Terms from "@/pages/public/Terms";
 import NotFound from "@/pages/public/NotFound";
+import Donate from "@/pages/public/Donate";
+import ManualDonate from "@/pages/public/ManualDonate";
+import DonationResult from "@/pages/public/DonationResult";
 
 import AdminLogin from "@/pages/admin/Login";
 import AdminDashboard from "@/pages/admin/Dashboard";
@@ -36,6 +39,9 @@ import AdminInstitutionsManagement from "@/pages/admin/InstitutionsManagement";
 import AdminVolunteersManagement from "@/pages/admin/VolunteersManagement";
 import AdminUsersManagement from "@/pages/admin/UsersManagement";
 import AdminSettings from "@/pages/admin/Settings";
+import AdminDonationsManagement from "@/pages/admin/DonationsManagement";
+import AdminCampaignsManagement from "@/pages/admin/CampaignsManagement";
+import AdminMembersManagement from "@/pages/admin/MembersManagement";
 
 function App() {
   return (
@@ -63,6 +69,9 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/privacy" element={<Privacy />} />
         <Route path="/terms" element={<Terms />} />
+        <Route path="/donate" element={<Donate />} />
+       <Route path="/donate/manual" element={<ManualDonate />} />
+       <Route path="/donate/result" element={<DonationResult />} />
         <Route path="*" element={<NotFound />} />
       </Route>
 
@@ -86,6 +95,9 @@ function App() {
         <Route path="volunteers" element={<AdminVolunteersManagement />} />
         <Route path="users" element={<AdminUsersManagement />} />
         <Route path="settings" element={<AdminSettings />} />
+        <Route path="donations" element={<AdminDonationsManagement />} />
+       <Route path="campaigns" element={<AdminCampaignsManagement />} />
+       <Route path="members" element={<AdminMembersManagement />} />
       </Route>
     </Routes>
   );
